@@ -1,0 +1,20 @@
+Debugging
+Debugging is the process of finding & fixing the bugs in the code.
+
+We can debug using:
+
+Browser Developer Tools
+React Developer Tools
+Browser Developer Tools
+These are the tools provided by the browsers to debug the application loaded in the web browser.
+
+Using Browser Developer Tools, we can:
+
+View the source code (HTML, CSS, and JS)
+
+View and change CSS
+View logged messages in the console
+Run JavaScript in the console
+Check the responsiveness of an application, etc.
+React Developer Tools
+For React Developer Tools, we can install the React Developer Tools Extension for Google Chrome.
